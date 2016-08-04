@@ -1,0 +1,36 @@
+_repo: Ten-Days-That-Shook-the-World_3076
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reed, John
+    aliases:
+    - Reid, John
+    - Reed, John Silas
+    birthdate: 1887
+    deathdate: 1920
+    gutenberg_agent_id: '1109'
+    url: http://www.gutenberg.org/2009/agents/1109
+    wikipedia: http://en.wikipedia.org/wiki/John_Reed_(journalist)
+description: This book is the author's eyewitness account of the Russian Revolution.
+  Writing in the first flush of revolutionary enthusiasm, he gives a gripping account
+  of the events in Petrograd in November 1917, when Lenin and the Bolsheviks finally
+  seized power. Containing verbatim reports both of speeches by leaders and of the
+  chance comments of bystanders, and set against an idealized backdrop of soldiers,
+  sailors, peasants, and the proletariat uniting to throw off oppression, his account
+  is the product of passionate involvement and remains an unsurpassed classic of reporting.
+  --Back cover.
+gutenberg_issued: '2002-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DK'
+- !lcsh 'Soviet Union -- History -- Revolution, 1917-1921'
+- !lcsh 'Communism -- Soviet Union'
+- GITenberg
+title: Ten Days That Shook the World
+url: http://www.gutenberg.org/ebooks/3076
