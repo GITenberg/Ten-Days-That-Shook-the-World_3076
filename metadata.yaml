@@ -1,5 +1,8 @@
 _repo: Ten-Days-That-Shook-the-World_3076
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Reed, John
@@ -19,6 +22,8 @@ description: This book is the author's eyewitness account of the Russian Revolut
   sailors, peasants, and the proletariat uniting to throw off oppression, his account
   is the product of passionate involvement and remains an unsurpassed classic of reporting.
   --Back cover.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3076#Ten-Days-That-Shook-the-World
 gutenberg_issued: '2002-02-01'
 gutenberg_type: Text
 identifiers:
